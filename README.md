@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>An AI-powered robot that uses stereo vision and deep reinforcement learning to optimize robotic arm movements for object picking — skipping complex forward kinematics. <br><br>👯 I’m looking to collaborate on:<br>AI-based automation tools, deep learning research projects and building impactful SaaS platforms using LLMs and AI Agents<br><br>🤝 I’m looking for help with:<br>Building a strong portfolio for applications to improve my chances of landing an AI job<br><br>🌱 I’m currently learning:<br>Reinforcement learning & LLMs<br><br>💬 Ask me about:<br>AI automation, computer vision and robotics<br><br>⚡ Fun fact:<br>I've been interested in Robotics since I was 13, which got me into AI. To make the robot move autonomously.<br>
+🔭 I’m currently working on:<br>An AI-powered robot that uses stereo vision and deep reinforcement learning to optimise robotic arm movements for object picking, skipping complex forward kinematics. <br><br>🤝 I’m looking for help with:<br>Fine-tuning a small quantised LLM and deploying into a mobile app<br><br>🌱 I’m currently learning:<br>Reinforcement learning & LLMs<br><br>💬 Ask me about:<br>Computer vision and robotics<br><br>⚡ Fun fact:<br>I've been interested in Robotics since I was 13, which got me into AI. To make the robot move autonomously. Out of context, but I love to hike and travel.<br>
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=AlgorithmicAce&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AlgorithmicAce&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlgorithmicAce&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AlgorithmicAce&icon=0&color=0)](https://visitcount.itsvg.in)
